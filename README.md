@@ -25,7 +25,7 @@ Une seule commande. Les 9 skills sont copiés dans `~/.claude/skills/` et imméd
 | Préparer l'approche | `outreach-personalizer` | Génère 5 accroches de personnalisation classées par pertinence |
 | Préparer l'approche | `cold-email-writer` | Rédige un cold email PAS ou AIDA avec 3 variantes et 3 objets |
 | Préparer l'approche | `write-outbound-sequence` | Construit une séquence multicanale 8 à 12 touches sur 3 à 4 semaines |
-| Tenir la cadence | `reply-handler` | 8 modèles de réponse pour les replies courantes en outbound |
+| Tenir la cadence | `reply-handler` | 8 modèles de réponse pour les retours courants en outbound |
 | Tenir la cadence | `follow-up-sequence` | Séquence de relance 4 touches pour les ouvreurs sans réponse |
 
 ## Comment les utiliser
